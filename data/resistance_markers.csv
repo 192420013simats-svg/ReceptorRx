@@ -1,0 +1,13 @@
+receptor,marker_gene,alteration_kind,marker_label,linked_mechanism,rescue_strategy,evidence_level
+HER2,PIK3CA,MUT,PIK3CA mutation,PI3K pathway activation bypasses HER2 blockade,PI3K inhibitor or mTOR inhibitor,Clinical
+HER2,PTEN,HOMDEL|MUT,PTEN loss,PI3K-AKT activation,Everolimus (mTOR inhibitor),Clinical
+HER2,MET,AMP,MET amplification,MET bypass signalling,MET inhibitor,Preclinical
+HER2,IGF1R,AMP,IGF1R amplification,IGF1R bypass signalling,IGF1R inhibitor,Preclinical
+ER,PIK3CA,MUT,PIK3CA mutation,PI3K pathway activation,Alpelisib + fulvestrant,Clinical
+ER,CCND1,AMP,CCND1 amplification,Cyclin D1-CDK4/6 activation,CDK4/6 inhibitor,Clinical
+ER,RB1,HOMDEL|MUT,RB1 loss,Resistance to CDK4/6 inhibitors,Chemotherapy,Preclinical
+ER,ERBB2,AMP,ERBB2 amplification,HER2 growth-factor crosstalk,HER2-targeted therapy,Preclinical
+EGFR,MET,AMP,MET amplification,MET bypass signalling,Savolitinib + osimertinib,Clinical
+EGFR,ERBB2,AMP,ERBB2 amplification,HER2 bypass signalling,HER2-targeted therapy,Preclinical
+EGFR,PIK3CA,MUT,PIK3CA mutation,PI3K pathway activation,PI3K pathway inhibitor (investigational),Preclinical
+EGFR,RB1,HOMDEL|MUT,RB1 loss,Risk of small-cell transformation,Platinum + etoposide chemotherapy,Clinical

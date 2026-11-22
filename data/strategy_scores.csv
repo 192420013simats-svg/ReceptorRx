@@ -1,0 +1,13 @@
+strategy_id,receptor,strategy,drug_type,orr_pct,pfs_months,grade3_ae_pct,cost_tier,route,efficacy,safety,durability,cost,convenience,trial,data_note,verified
+HER2_MAB,HER2,Trastuzumab + pertuzumab + taxane,Monoclonal antibody,80.2,18.5,49,Branded biologic,IV every 3 weeks + chemo,4,4,3,3,3,"CLEOPATRA (Baselga 2012, PMID 22149875; Swain 2020, PMID 32171426)",Grade >=3 AE value is grade 3-4 neutropenia only (lower bound); all-cause rate not found,Yes
+HER2_TDXD,HER2,Trastuzumab deruxtecan (T-DXd),Antibody-drug conjugate,78.5,28.8,56,ADC or bispecific,IV every 3 weeks,5,3,4,2,3,"DESTINY-Breast03 updated analysis (Hurvitz 2023, PMID 36495879)",,Yes
+HER2_TDM1,HER2,Trastuzumab emtansine (T-DM1),Antibody-drug conjugate,43.6,9.6,41,ADC or bispecific,IV every 3 weeks,4,4,3,2,3,"EMILIA (Verma 2012, PMID 23020162)",,Yes
+HER2_TUC,HER2,Tucatinib + trastuzumab + capecitabine,Kinase inhibitor,41,7.6,,Branded oral + biologic,IV every 3 weeks + oral,4,3,3,3,4,"HER2CLIMB (Murthy 2020; final analysis Curigliano 2022, PMID 34954044)",PFS from final analysis; all-cause grade >=3 AE rate not found (estimate used),Yes
+HER2_LAP,HER2,Lapatinib + capecitabine,Kinase inhibitor,30.8,6.4,57,Generic oral,Oral daily + oral chemo,3,3,2,4,5,"EMILIA control arm (Verma 2012, PMID 23020162)",,Yes
+ER_AI_CDK,ER,Aromatase inhibitor + CDK4/6 inhibitor,Hormonal therapy,55.3,24.8,66.4,Branded oral,Oral daily,5,4,4,3,5,"PALOMA-2 (Finn 2016, PMID 27959613)",ORR in patients with measurable disease; grade >=3 AE value is grade 3-4 neutropenia only (lower bound),Yes
+ER_TAM,ER,Tamoxifen,Hormonal therapy,21,6.0,,Generic oral,Oral daily,3,4,3,5,5,"Femara P025 tamoxifen arm (Mouridsen 2001)",PFS value is time to progression; grade >=3 AE rate not found (estimate used),Yes
+ER_FUL,ER,Fulvestrant,Hormonal therapy,,16.6,,Generic injection,IM injection monthly,3,4,3,3,2,"FALCON (Robertson 2016, Lancet, doi 10.1016/S0140-6736(16)32389-3)",ORR and grade >=3 AE rate not found (estimates used),Yes
+ER_ELA,ER,Elacestrant (ESR1-mutant),Hormonal therapy,,3.8,7.2,Branded oral,Oral daily,3,4,3,2,5,"EMERALD (Bidard 2022, PMID 35584336)",PFS in ESR1-mutant patients; AE value is treatment-related grade 3-4 only; ORR not found (estimate used),Yes
+EGFR_OSI,EGFR,Osimertinib,Kinase inhibitor,80,18.9,34,Branded oral,Oral daily,5,4,4,3,5,"FLAURA (Soria 2018, PMID 29151359)",,Yes
+EGFR_GEF,EGFR,Gefitinib or erlotinib,Kinase inhibitor,76,10.2,45,Generic oral,Oral daily,4,3,2,4,5,"FLAURA comparator arm (Soria 2018, PMID 29151359)",,Yes
+EGFR_AMI,EGFR,Amivantamab + lazertinib,Bispecific antibody,86,23.7,75,ADC or bispecific,IV every 2 weeks + oral,4,2,4,2,2,"MARIPOSA (Cho 2024, doi 10.1056/NEJMoa2403614)",,Yes

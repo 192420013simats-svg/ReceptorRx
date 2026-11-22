@@ -1,0 +1,22 @@
+drug,receptor,resistance_mechanism,mechanism_type,bypass_target,rescue_strategy,evidence_level,reference
+Trastuzumab,HER2,p95HER2 truncation (antibody epitope lost),On-target,Truncated HER2,Tucatinib or lapatinib,Preclinical,Scaltriti 2007
+Trastuzumab,HER2,HER2-HER3 dimer signalling,Bypass,HER3,Pertuzumab,Clinical,CLEOPATRA (Swain 2015)
+Trastuzumab,HER2,PIK3CA activating mutation,Downstream,PI3K,PI3K inhibitor,Preclinical,Berns 2007
+Trastuzumab,HER2,PTEN loss,Downstream,PI3K-AKT-mTOR,Everolimus (mTOR inhibitor),Clinical,BOLERO-3 (Andre 2014)
+Trastuzumab,HER2,IGF1R signalling,Bypass,IGF1R,IGF1R inhibitor,Preclinical,Nahta 2005
+Trastuzumab,HER2,MET activation,Bypass,MET,MET inhibitor,Preclinical,Shattuck 2008
+T-DM1,HER2,Poor internalisation or lysosomal processing,Payload,None,Trastuzumab deruxtecan,Clinical,DESTINY-Breast03 (Cortes 2022)
+T-DM1,HER2,Payload efflux by ABC transporters,Payload,None,Trastuzumab deruxtecan,Preclinical,Loganzo 2015
+Lapatinib,HER2,AXL upregulation,Bypass,AXL,AXL inhibitor,Preclinical,Liu 2009
+Aromatase inhibitor,ER,ESR1 ligand-binding domain mutation,On-target,ER (ligand-independent),Elacestrant or fulvestrant,Clinical,EMERALD (Bidard 2022)
+Aromatase inhibitor,ER,Cyclin D1-CDK4/6 activation,Downstream,CDK4/6,CDK4/6 inhibitor + fulvestrant,Clinical,PALOMA-3 (Turner 2015)
+Aromatase inhibitor,ER,PIK3CA activating mutation,Downstream,PI3K,Alpelisib + fulvestrant,Clinical,SOLAR-1 (Andre 2019)
+Tamoxifen,ER,HER2 or EGFR growth-factor crosstalk,Bypass,HER2,HER2-targeted therapy,Preclinical,Shou 2004
+CDK4/6 inhibitor,ER,RB1 loss,Downstream,RB1,Chemotherapy,Preclinical,Condorelli 2018
+Gefitinib or erlotinib,EGFR,T790M gatekeeper mutation,On-target,EGFR T790M,Osimertinib,Clinical,AURA3 (Mok 2017)
+Gefitinib or erlotinib,EGFR,MET amplification,Bypass,MET,MET inhibitor + EGFR inhibitor,Preclinical,Engelman 2007
+Osimertinib,EGFR,C797S mutation,On-target,EGFR C797S,Fourth-generation EGFR inhibitor (investigational),Preclinical,Thress 2015
+Osimertinib,EGFR,MET amplification,Bypass,MET,Savolitinib + osimertinib,Clinical,SAVANNAH (Ahn 2022)
+Osimertinib,EGFR,MET and EGFR bypass signalling,Bypass,MET,Amivantamab + chemotherapy,Clinical,MARIPOSA-2 (Passaro 2024)
+Osimertinib,EGFR,HER2 amplification,Bypass,HER2,HER2-targeted therapy,Preclinical,Planchard 2015
+Osimertinib,EGFR,Small-cell transformation,Lineage change,None,Platinum + etoposide chemotherapy,Clinical,Oser 2015

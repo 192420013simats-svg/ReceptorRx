@@ -1,0 +1,7 @@
+priority,condition_field,allowed_values,line_of_therapy,preferred_strategy_id,source
+1,her2_status,Positive,First,HER2_MAB,NCCN and ESMO metastatic breast cancer guidelines
+2,her2_status,Positive|Low,Second,HER2_TDXD,NCCN and ESMO metastatic breast cancer guidelines
+3,esr1_mutation,Yes,Second,ER_ELA,NCCN and ESMO metastatic breast cancer guidelines
+4,er_status,Positive,First,ER_AI_CDK,NCCN and ESMO metastatic breast cancer guidelines
+6,egfr_mutation,Ex19del|L858R,First,EGFR_OSI,NCCN and ESMO non-small cell lung cancer guidelines
+7,egfr_mutation,T790M,Second,EGFR_OSI,NCCN and ESMO non-small cell lung cancer guidelines

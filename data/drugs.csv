@@ -1,0 +1,19 @@
+receptor,drug,brand,drug_class,mechanism,route,fda_year,main_indication
+HER2,Trastuzumab,Herceptin,Monoclonal antibody,Binds HER2 domain IV; blocks HER2 signalling and triggers immune killing (ADCC),IV / subcutaneous,1998,HER2-positive breast and gastric cancer
+HER2,Pertuzumab,Perjeta,Monoclonal antibody,Binds HER2 domain II; blocks HER2 pairing with HER3 (dimerisation),IV,2012,HER2-positive breast cancer (with trastuzumab)
+HER2,Trastuzumab emtansine (T-DM1),Kadcyla,Antibody-drug conjugate,Trastuzumab linked to DM1 (microtubule poison); delivers chemotherapy into HER2 cells,IV,2013,HER2-positive breast cancer after trastuzumab
+HER2,Trastuzumab deruxtecan (T-DXd),Enhertu,Antibody-drug conjugate,Trastuzumab linked to a topoisomerase I inhibitor; also kills nearby cells (bystander effect),IV,2019,HER2-positive and HER2-low breast cancer
+HER2,Lapatinib,Tykerb,Kinase inhibitor,Oral inhibitor of HER2 and EGFR kinase activity inside the cell,Oral,2007,HER2-positive breast cancer
+HER2,Neratinib,Nerlynx,Kinase inhibitor,Irreversible oral inhibitor of HER1/HER2/HER4 kinases,Oral,2017,HER2-positive early breast cancer (extended adjuvant)
+HER2,Tucatinib,Tukysa,Kinase inhibitor,Highly HER2-selective oral kinase inhibitor; enters the brain,Oral,2020,HER2-positive metastatic breast cancer incl. brain metastases
+ER,Tamoxifen,Nolvadex,Hormonal therapy (SERM),Selective estrogen receptor modulator; blocks estrogen binding in breast tissue,Oral,1977,ER-positive breast cancer
+ER,Fulvestrant,Faslodex,Hormonal therapy (SERD),Selective estrogen receptor degrader; binds and destroys the receptor,Intramuscular injection,2002,ER-positive advanced breast cancer
+ER,Elacestrant,Orserdu,Hormonal therapy (SERD),Oral estrogen receptor degrader; active against ESR1-mutant receptors,Oral,2023,ER-positive ESR1-mutant advanced breast cancer
+ER,Letrozole,Femara,Aromatase inhibitor,Blocks aromatase so less estrogen is made (does not bind the receptor),Oral,1997,ER-positive breast cancer (postmenopausal)
+ER,Anastrozole,Arimidex,Aromatase inhibitor,Blocks aromatase so less estrogen is made (does not bind the receptor),Oral,1995,ER-positive breast cancer (postmenopausal)
+EGFR,Gefitinib,Iressa,Kinase inhibitor,First-generation reversible EGFR kinase inhibitor,Oral,2003,EGFR-mutant non-small cell lung cancer
+EGFR,Erlotinib,Tarceva,Kinase inhibitor,First-generation reversible EGFR kinase inhibitor,Oral,2004,EGFR-mutant non-small cell lung cancer
+EGFR,Afatinib,Gilotrif,Kinase inhibitor,Second-generation irreversible ERBB family kinase inhibitor,Oral,2013,EGFR-mutant non-small cell lung cancer
+EGFR,Osimertinib,Tagrisso,Kinase inhibitor,Third-generation irreversible EGFR inhibitor; also active against T790M,Oral,2015,EGFR-mutant non-small cell lung cancer
+EGFR,Amivantamab,Rybrevant,Bispecific antibody,Binds EGFR and MET at the same time; blocks both and triggers immune killing,IV,2021,EGFR-mutant non-small cell lung cancer
+EGFR,Cetuximab,Erbitux,Monoclonal antibody,Binds the outside of EGFR and blocks ligand binding,IV,2004,Colorectal and head and neck cancer (not lung)

@@ -1,0 +1,14 @@
+strategy_id,condition_field,allowed_values,line_of_therapy,note
+HER2_MAB,her2_status,Positive,First,Standard first-line for metastatic HER2-positive disease
+HER2_TDXD,her2_status,Positive|Low,Second,HER2-low eligible after prior chemotherapy
+HER2_TDM1,her2_status,Positive,Second,Older second-line ADC
+HER2_TUC,her2_status,Positive,Second,Useful when brain metastases are present
+HER2_LAP,her2_status,Positive,Second,Older oral option
+ER_AI_CDK,er_status,Positive,First,Standard first-line for metastatic ER-positive disease
+ER_TAM,er_status,Positive,First,Older first-line option; common in premenopausal patients
+ER_FUL,er_status,Positive,First,Injected SERD (FALCON studied first-line patients)
+ER_ELA,esr1_mutation,Yes,Second,Only for ESR1-mutant tumours
+EGFR_OSI,egfr_mutation,Ex19del|L858R,First,Preferred first-line EGFR inhibitor
+EGFR_OSI,egfr_mutation,T790M,Second,After resistance to first-generation inhibitors
+EGFR_GEF,egfr_mutation,Ex19del|L858R,First,Older first-generation option
+EGFR_AMI,egfr_mutation,Ex19del|L858R,First,Newer combination option
