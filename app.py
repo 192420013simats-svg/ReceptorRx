@@ -1,8 +1,8 @@
 import streamlit as st
-from modules.receptor_analysis import show_receptors
-from modules.drug_analysis import show_drugs
-from modules.strategy_analysis import show_strategy
-from modules.resistance_analysis import show_resistance
+from receptor_analysis import show_receptors
+from drug_analysis import show_drugs
+from strategy_analysis import show_strategy
+from resistance_analysis import show_resistance
 
 st.set_page_config(page_title="ReceptorRx", page_icon="🧬", layout="wide")
 
